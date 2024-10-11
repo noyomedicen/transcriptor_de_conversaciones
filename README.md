@@ -25,4 +25,5 @@ Antes de grabar cualquier reunión, asegúrate de obtener el consentimiento de t
 Planeo automatizar el envío de audios a través de WhatsApp y recibir el texto procesado de forma automática para facilitar aún más el flujo de trabajo.
 
 # Sígueme en mis redes sociales
-Si quieres saber mas de este fascinante mundo de la inteligencia artificial y el análisis de datos te invito a que me sigas en mis redes sociales, como Edgar Arnoldo Sierra, Edgar Sierra o Noyomedicen
+Si quieres saber mas de este fascinante mundo de la inteligencia artificial y el análisis de datos te invito a que me sigas en mis redes sociales, como 
+### Edgar Arnoldo Sierra, Edgar Sierra o Noyomedicen
